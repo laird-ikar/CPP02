@@ -6,7 +6,7 @@
 /*   By: bguyot <bguyot@student.42mulhouse.fr>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/19 08:10:47 by bguyot            #+#    #+#             */
-/*   Updated: 2022/05/20 07:08:15 by bguyot           ###   ########.fr       */
+/*   Updated: 2022/05/25 14:19:59 by bguyot           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,7 +20,6 @@ class Fixed
 {
 private:
 	const static int	nb_fract_bit = 0x8;
-
 	int					raw_bits;
 
 public:

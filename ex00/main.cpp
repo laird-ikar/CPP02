@@ -6,11 +6,12 @@
 /*   By: bguyot <bguyot@student.42mulhouse.fr>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/19 08:10:49 by bguyot            #+#    #+#             */
-/*   Updated: 2022/05/19 08:17:07 by bguyot           ###   ########.fr       */
+/*   Updated: 2022/05/25 14:18:59 by bguyot           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <iostream>
+#include "iostream"
+#include "Fixed.hpp"
 
 int main(void)
 {
